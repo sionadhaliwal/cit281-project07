@@ -15,12 +15,12 @@ This project focuses on:
 ### [Lab 8](lab-08.zip)
 **Description**: Built a Node.js Express server that fetches photo data using the JSONPlaceholder API.  
 **Skills used**: JavaScript, Express, Node.js, async/await, API integration.  
-**Deliverable**: [Download lab-08.zip](./lab-8.zip)
+**Deliverable**: [Download lab-08.zip](./lab08.zip)
 
 ### [Lab 9](lab-09.zip)
 **Description**: Completed GitHub Learning Lab course: “Create a release-based workflow”.  
 **Skills used**: GitHub flow, creating releases, tags, issues, pull requests, markdown, and project documentation.  
-**Deliverable**: [Download lab-09.zip](./lab-9.zip)
+**Deliverable**: [Download lab-09.zip](./lab09.zip)
 
 ## Project 7 Summary
 
