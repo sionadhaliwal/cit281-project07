@@ -31,7 +31,8 @@ Project 7 ties everything together into a portfolio site. It includes:
 
 ## Project 7 GitHub Page
 
-![Screenshot of Project 7 GitHub Page](p7.png)
+![Screenshot of Project 7 GitHub Page](<img width="607" alt="p7" src="https://github.com/user-attachments/assets/f8f00af8-932b-4f59-b688-8f36b585329f" />
+)
 
 
 
