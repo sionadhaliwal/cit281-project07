@@ -1,4 +1,3 @@
-# cit281-project07: CIT Minor Portfolio
 
 Welcome to my CIT Minor portfolio for Project 7! This project brings together my work in CIT 281 and introduces my GitHub Pages portfolio site.
 
