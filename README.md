@@ -6,7 +6,7 @@ This project introduces my work throughout the course and includes GitHub-hosted
 
 ---
 
-##Lab 8: Node.js with JSONPlaceholder API
+## Lab 8: Node.js with JSONPlaceholder API
 
 
 **Technologies Used:**
