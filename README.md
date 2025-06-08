@@ -1,66 +1,38 @@
 # cit281-project07: CIT Minor Portfolio
 
-Welcome to my CIT Minor Portfolio project for CIT 281!
+Welcome to my CIT Minor portfolio for Project 7! This project brings together my work in CIT 281 and introduces my GitHub Pages portfolio site.
 
-This project introduces my work throughout the course and includes GitHub-hosted pages for individual labs and projects. The goal of this project was to build an initial version of my CIT Minor Portfolio using GitHub Pages, showcasing my skills and what I’ve learned in CIT 281.
+## Project Overview
 
----
+This project focuses on:
 
-## Lab 8: Node.js with JSONPlaceholder API
+- Creating a personal GitHub Pages site
+- Organizing and documenting past projects and labs
+- Practicing GitHub workflows and GitHub Learning Lab courses
+
+## Labs Completed
+
+### [Lab 8](lab-08.zip)
+**Description**: Built a Node.js Express server that fetches photo data using the JSONPlaceholder API.  
+**Skills used**: JavaScript, Express, Node.js, async/await, API integration.  
+**Deliverable**: [Download lab-08.zip](./lab-08.zip)
+
+### [Lab 9](lab-09.zip)
+**Description**: Completed GitHub Learning Lab course: “Create a release-based workflow”.  
+**Skills used**: GitHub flow, creating releases, tags, issues, pull requests, markdown, and project documentation.  
+**Deliverable**: [Download lab-09.zip](./lab-09.zip)
+
+## Project 7 Summary
+
+Project 7 ties everything together into a portfolio site. It includes:
+- A GitHub Pages website built from this repo
+- Uploaded lab work with descriptions and downloads
+- Configured a Jekyll theme via `_config.yml`
+- [GitHub Pages live site](https://sionadhaliwal.github.io/cit281-project07)
+
+## Project 7 GitHub Page
+
+![Screenshot of Project 7 GitHub Page](p7.png)
 
 
-**Technologies Used:**
-- Node.js
-- Express.js
-- JSONPlaceholder API
-- JavaScript
-
-**What I Learned:**
-- How to fetch external API data using `node-fetch`
-- How to set up a basic Express.js server
-- Serving static and dynamic content
-- Error handling with `try...catch`
-
----
-
-## Lab 9: GitHub Release-Based Workflow
-
-**Steps Completed:**
-1. Created a beta release
-2. Introduced a bug and fixed it via pull request
-3. Tagged a production release
-4. Documented changes using release notes
-5. Practiced reverting a commit and branching
-
-**What I Learned:**
-- Creating and managing releases in GitHub
-- Branching and pull requests
-- Writing release notes
-- Using GitHub as a real-world workflow simulation tool
-
----
-
-## Project 7: CIT Minor Portfolio
-
-**Technologies Used:**
-- GitHub Pages
-- Markdown (`README.md`)
-- GitHub Repos & Releases
-- Git and Terminal Commands
-
-**What I Learned:**
-- Creating and managing GitHub Pages
-- Organizing lab/project repos and content
-- Building a professional GitHub portfolio site
-
----
-
-## GitHub Page URL
-
-[GitHub Page for this project](https://sionadhaliwal.github.io/cit281-project07)
-
----
-
-## Screenshot
-![Portfolio Screenshot](p7.png)
 
